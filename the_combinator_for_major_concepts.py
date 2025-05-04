@@ -1,8 +1,8 @@
 from itertools import combinations
 import pandas as pd
 
-# List of words (确保源代码文件以UTF-8编码保存)
-words = ["计算模拟", "好奇心", "驱动", "个体", "竞争胜利", "丰富", "行为选择"]
+# put your primary concepts here
+words = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j",]
 
 # Generate all combinations and store them in a list
 combinations_list = []
@@ -25,5 +25,4 @@ df.fillna("", inplace=True)
 # Drop unnecessary rows
 df = df.drop([0, df.index[-1]])
 
-# 保存为CSV时使用UTF-8-SIG编码（带BOM），这样Excel打开不会乱码
-df.to_csv(r"D:\新建文件夹\combination.csv", encoding='utf-8-sig', index=False)
+df.to_csv(r"yourpath\combinations.csv", encoding='utf-8-sig', index=False)
