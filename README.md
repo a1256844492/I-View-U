@@ -1,5 +1,4 @@
 This is a systematic literature review workflow for science.
 
-To have an overview of the workflow, please watch the introductory video:
-
-To have a general idea of the work, please watch the introduction video:
+To have an overview of the workflow, please watch the introductory video: 
+https://bit.ly/3XUtT8B(English version); http://bit.ly/4i7moDC (Chinese version)
