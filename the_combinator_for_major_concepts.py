@@ -11,7 +11,7 @@ for i in range(2, len(words) + 1):
         combinations_list.append(" + ".join(combo))
     combinations_list.append("")  
 
-# Create a DataFrame
+# Create a DataFrame and Add the last two rows with "general investigation" and "specific investigation"
 n = len(combinations_list) + 1
 df = pd.DataFrame(index=range(n), columns=["concept combinations", "general investigation", "specific investigation"])
 
@@ -25,4 +25,6 @@ df.fillna("", inplace=True)
 # Drop unnecessary rows
 df = df.drop([0, df.index[-1]])
 
+#save the DataFrame to a CSV file
+# Make sure to change the path to your desired location
 df.to_csv(r"yourpath\combinations.csv", encoding='utf-8-sig', index=False)
