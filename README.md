@@ -35,5 +35,6 @@ The "the_combinator_for_major_concepts.py" can also be run at Google Colab:
 https://colab.research.google.com/drive/19obLbeHC_Medq0IQn-rnqCk5Mwj5LYoV?usp=sharing
 
 
-
-<center>Have fun with the I-View-U workflow!</center>
+<center>
+Have fun with the I-View-U workflow!
+</center>
