@@ -1,17 +1,17 @@
-I-View-U project aims to improve the quality and reproduciblity of scientific literature review by providing a systematic and standardized workflow.
+## **I-View-U project aims to improve the quality and reproduciblity of scientific literature review by providing a systematic and standardized workflow.**
 
-This workflow contains three stages: (1)Depict the background structure for the research question;
-(2)General background investigation;
-(3)Academic background investigation
+This workflow contains three stages: (1)Depict the Background Structure for the Research Question(DB);
+(2)General Background Investigation(GB);
+(3)Academic Background Investigation(AB). Each of the stage involve its own workflow.
 
-The first stage involves following procedures:
+DB workflow:
 ![alt text](image-1.png)
-The second stage involves following procedures:
+GB workflow:
 ![alt text](image-2.png)
-The third stage involves following  procedures:
+AB workflow:
 ![alt text](image-3.png)
 
-For more details of the I-View-U workflow, please refer to the introductory videos:
+For more details of the I-View-U workflow, please refer to the introductory video:
 https://bit.ly/3XUtT8B (English version); http://bit.ly/4i7moDC (Chinese version)
 
 Examples are also available in the examples folder. (Currently there is only one example available.)
