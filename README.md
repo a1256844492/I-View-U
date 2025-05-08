@@ -1,4 +1,4 @@
-## **I-View-U project aims to improve the quality and reproduciblity of scientific literature review by providing a systematic and standardized workflow.**
+## **I-View-U is a systematic literature review workflow, which aims to provide an environment where your curiosity could thrive into accurate scientifc questions.**
 
 This workflow contains three stages: (1)Depict the Background Structure for the Research Question(DB);
 (2)General Background Investigation(GB);
