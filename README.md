@@ -27,11 +27,9 @@ https://bit.ly/3XUtT8B (English version); http://bit.ly/4i7moDC (Chinese version
 
 Examples are also available in the examples folder. (Currently there is only one example available.)
 
-**A recent live demo of I-View-U, check it out!()**
-
 The "the_combinator_for_major_concepts.py" can also be run at Google Colab:
 https://colab.research.google.com/drive/19obLbeHC_Medq0IQn-rnqCk5Mwj5LYoV?usp=sharing
 
-
+**A recent live demo of I-View-U, check it out!(https://www.bilibili.com/video/BV1f7EMzmEFJ/)**
 
                                 Have fun with the I-View-U workflow!
