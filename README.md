@@ -1,5 +1,7 @@
 ## **I-View-U is a systematic literature review workflow, which aims to provide an environment where your curiosity could efficiently thrive into accurate scientific questions！**
 
+**✨A recent live demo of I-View-U, check it out!(https://www.bilibili.com/video/BV1f7EMzmEFJ/)**
+
 This workflow contains three stages: (1)Depict the Background Structure for the Research Question(DB);
 (2)General Background Investigation(GB);
 (3)Academic Background Investigation(AB). Each of the stage involves its own workflow.
@@ -30,6 +32,5 @@ Examples are also available in the examples folder. (Currently there is only one
 The "the_combinator_for_major_concepts.py" can also be run at Google Colab:
 https://colab.research.google.com/drive/19obLbeHC_Medq0IQn-rnqCk5Mwj5LYoV?usp=sharing
 
-**A recent live demo of I-View-U, check it out!(https://www.bilibili.com/video/BV1f7EMzmEFJ/)**
 
                                 Have fun with the I-View-U workflow!
