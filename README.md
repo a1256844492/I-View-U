@@ -1,4 +1,4 @@
-## **I-View-U is a systematic literature review workflow, which aims to provide an environment where your curiosity could efficiently thrive into accurate scientific questions！**
+## **I-View-U is a systematic literature review workflow, which aims to (1) provide an environment where curiosity could efficiently thrive into accurate scientific questions; (2) systematically synthesize the literature evidence needed to answer the question**
 
 **✨A recent live demo of I-View-U, check it out!(https://www.bilibili.com/video/BV1f7EMzmEFJ/)**
 
