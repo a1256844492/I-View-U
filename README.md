@@ -2,10 +2,10 @@
 
 **✨A recent live demo of I-View-U, check it out!(https://www.bilibili.com/video/BV1f7EMzmEFJ/)**
 
-This workflow contains three stages: 
-(1)Depict the Background Structure for the Research Question(DB)
-(2)General Background Investigation(GB)
-(3)Academic Background Investigation(AB)
+This workflow contains three stages:   
+(1)Depict the Background Structure for the Research Question(DB)  
+(2)General Background Investigation(GB)  
+(3)Academic Background Investigation(AB)  
 
 The following are the inner workflows for each of the stages:
 DB workflow
@@ -45,10 +45,10 @@ https://colab.research.google.com/drive/19obLbeHC_Medq0IQn-rnqCk5Mwj5LYoV?usp=sh
 
 **✨一个最近的I-View-U的现场演示视频，快来看看吧！(https://www.bilibili.com/video/BV1f7EMzmEFJ/)**
 
-这个工作流可分成三个阶段：
-（1）描绘研究问题的背景结构（Depict the Background Structure for the Research Question, DB）
-（2）一般性背景调查(General Background Investigation, GB)
-（3）学术特定背景调查(Academic Background Investigation, AB)
+这个工作流可分成三个阶段：  
+（1）描绘研究问题的背景结构（Depict the Background Structure for the Research Question, DB）  
+（2）一般性背景调查(General Background Investigation, GB)  
+（3）学术特定背景调查(Academic Background Investigation, AB)  
 
 以下是各个阶段的内部工作流：
 
